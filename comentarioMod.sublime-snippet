@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+HUMBERTO HERRADOR: $1
+    MODIFICACION: Cambio de funcion por manual de buenas practicas
+        Ejemplo: nombre de funcion antigua => nombre nueva funcion
+        FUNCTION => FUNCTION
+   	MODIFICACION: Cambio de parametros segun manual de buenas practicas
+   		Ejemplo: Funcion con parametros => funcion con nuevos parametros
+   		FUNCTION => FUNCTION
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>comentarioMod</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

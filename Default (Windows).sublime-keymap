@@ -1,0 +1,14 @@
+[
+	{ "keys": ["ctrl+7"], "command": "insert_snippet", "args": {"name": "Packages/User/comentario.sublime-snippet"}},
+	{ "keys": ["ctrl+8"], "command": "insert_snippet", "args": {"name": "Packages/User/comentarioMod.sublime-snippet"}},
+	{ "keys": ["ctrl+9"], "command": "insert_snippet", "args": {"name": "Packages/User/secundariasComent.sublime-snippet"}},
+	{ "keys": ["ctrl+0"], "command": "insert_snippet", "args": {"name": "Packages/User/ComentCodigo.sublime-snippet"}},
+	{ "keys": ["ctrl+6"], "command": "add_date_time_stamp"},
+	{ "keys": ["ctrl+5"], "command": "insert_snippet", "args": {"name": "Packages/User/fin.sublime-snippet"}},
+	{ "keys": ["ctrl+4"], "command": "insert_snippet", "args": {"name": "Packages/User/trans.sublime-snippet"}},
+	{ "keys": ["ctrl+3"], "command": "insert_snippet", "args": {"name": "Packages/User/tranlatePhp.sublime-snippet"}},
+	{ "keys": ["ctrl+2"], "command": "insert_snippet", "args": {"name": "Packages/User/TranslateDuplex.sublime-snippet"}},
+	{ "keys": ["ctrl+1"], "command": "insert_snippet", "args": {"name": "Packages/User/translatecode.sublime-snippet"}},
+	{"keys": ["alt+f10"], "command": "add_random_string_only_letters"},
+  	{ "keys": ["ctrl+shift+7"], "command": "toggle_comment", "args": { "block": true } }
+]
