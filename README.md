@@ -124,6 +124,13 @@ por ejemplo : erpAUxElvH
 
 
 
+# Autores ✒️
+
+* **Humberto Herrador** - *Trabajo Inicial* - [hhklik](https://github.com/hhklik) [ada soft gt](http://adasoft.com.gt)
+
+
+
+
 
 
 
