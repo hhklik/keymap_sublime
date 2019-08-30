@@ -12,7 +12,7 @@
 Dentro de `git bash` ir la siguiente ruta
 
 ```php
-~/AppData/Roaming/'Sublime Text 3'/Packages/user
+cd ~/AppData/Roaming/'Sublime Text 3'/Packages/user
 ```
 Clonar el repositorio en esta ruta
 
